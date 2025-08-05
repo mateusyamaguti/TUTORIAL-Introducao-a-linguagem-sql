@@ -27,3 +27,5 @@ SELECT year, COUNT (*) AS record_count FROM station_data
 ![Obtendo a contagem de tornados por ano](TUTORIAL-Introducao-a-linguagem-sql/assets/img/cap6-1.png)
 
 ![Obtendo a contagem de tornados por ano](6-capitulo/cap6-1.png)
+
+![Obtendo a contagem de tornados por ano](https://github.com/mateusyamaguti/TUTORIAL-Introducao-a-linguagem-sql/blob/main/assets/img/cap6-1.png)
