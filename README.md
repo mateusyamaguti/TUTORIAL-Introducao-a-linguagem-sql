@@ -18,6 +18,8 @@ O repositório criado por Mateus Yamaguti com base o livro **Introdução à Lin
 - Capítulo 3: SQLite
 - Capítulo 4: SELECT
 - Capítulo 5: WHERE
+- Capítulo 6: GROP BY  e ORDER  BY
+- Capítulo 7: CASE
 
 ## Descrição do projeto 
 
