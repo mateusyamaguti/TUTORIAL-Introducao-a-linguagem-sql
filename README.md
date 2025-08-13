@@ -1,6 +1,6 @@
 # TUTORIAL-Introducao-a-linguagem-sql
 
-> Status do Projeto: Projeto em fase de desenvolvimento
+> Status do Projeto: Finalizado
 
 ## Objetivo:
 O repositório criado por Mateus Yamaguti com base o livro **Introdução à Linguagem SQL** (Nield, 2021). Recursos, repositório de consulto e banco de dados: [Getting Started with SQL](https://github.com/thomasnield/oreilly_getting_started_with_sql). Tem como objetivo servir de guia organizado para estudantes iniciantes na linguagem de banco de dados obterem um guia de exemplos práticos e didáticos. E por fim, reforçar conteúdos agragando minhas próprias anotações.
@@ -20,6 +20,9 @@ O repositório criado por Mateus Yamaguti com base o livro **Introdução à Lin
 - Capítulo 5: WHERE
 - Capítulo 6: GROP BY  e ORDER  BY
 - Capítulo 7: CASE
+- Capítulo 8: JOIN
+- Capítulo 9: Design de nanco de dados
+- Capítulo 10: Gerenciando dados
 
 ## Descrição do projeto 
 
@@ -34,17 +37,14 @@ O repositório criado por Mateus Yamaguti com base o livro **Introdução à Lin
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/...
+git clone https://github.com/mateusyamaguti/TUTORIAL-Introducao-a-linguagem-sql.git
 ```
 
 ##  Ferramentas sugeridas
-Compilador: 
+Gerenciador de banco de dados: SQLite, MySQL workbench e Oracle Live SQL
+Editor de projeto: VSCode
 
-Editor: 
 
-Debugging: 
-
-Formatação: 
 
 ## Desenvolvedores/Contribuintes :octocat:
 
